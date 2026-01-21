@@ -88,3 +88,27 @@ http://localhost:5173
 This project was created to practice React development and understand how frontend applications communicate with APIs.
 
 ---
+
+
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/LaibaMaryam65/web-online-bookshop.git
+cd web-online-bookshop
+```
+
+### Install Dependencies
+
+Backend:
+```bash
+cd backend
+npm install
+```
+
+Frontend:
+```bash
+cd frontend/bookish-frontend
+npm install
+```
+
