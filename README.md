@@ -20,9 +20,9 @@ Backend:
 - json-server
 
 ---
-
 ## Project Structure
 
+```
 WEB-ONLINE-BOOKSHOP
 ├── backend
 │   ├── db.json
@@ -44,8 +44,7 @@ WEB-ONLINE-BOOKSHOP
         ├── package.json
         ├── vite.config.js
         └── node_modules
-
----
+```
 
 ## How to Run the Project
 
