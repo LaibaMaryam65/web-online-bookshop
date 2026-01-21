@@ -1,0 +1,1426 @@
+{
+  "featured": [
+    {
+      "id": "2",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "isbn": "9780743477123",
+      "publisher": "Simon & Schuster",
+      "description": "A tragedy of revenge, madness, and moral corruption.",
+      "coverImage": "/covers/Hamlet.jpg",
+      "category": "Classic",
+      "price": 1800,
+      "reviews": {
+        "rating": 4.6,
+        "count": 182
+      },
+      "stock": 12,
+      "format": "Paperback",
+      "publicationYear": 2004
+    },
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn": "9780141439518",
+      "publisher": "Penguin Classics",
+      "description": "A romantic novel focusing on manners, marriage, and morality.",
+      "coverImage": "/covers/pride.jpg",
+      "category": "Fiction",
+      "price": "2300",
+      "reviews": {
+        "rating": 4.2,
+        "count": 95
+      },
+      "stock": 7,
+      "format": "Hardcover",
+      "publicationYear": 1998
+    },
+    {
+      "id": "13",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn": "9780142437247",
+      "category": "Fiction",
+      "price": 2400,
+      "coverImage": "/covers/alchemist.jpg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 2016
+    },
+    {
+      "id": "20",
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "isbn": "9780156907392",
+      "category": "Fiction",
+      "price": 2200,
+      "coverImage": "/covers/light.jpg",
+      "reviews": {
+        "rating": 4.5,
+        "count": 219
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "14",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "isbn": "9780140268867",
+      "category": "Historical",
+      "price": 2500,
+      "coverImage": "/covers/odyssey.jpeg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 1890
+    },
+    {
+      "id": "46",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "isbn": "9780062316097",
+      "category": "Non-Fiction",
+      "price": 1800,
+      "coverImage": "/covers/sapiens.jpg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "55",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "isbn": "9781594483851",
+      "category": "Contemporary",
+      "price": 1300,
+      "coverImage": "/covers/suns.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "6",
+      "title": "King Lear",
+      "author": "William Shakespeare",
+      "isbn": "9780743482769",
+      "category": "Classic",
+      "price": 1850,
+      "coverImage": "/covers/king.jpg",
+      "reviews": {
+        "rating": 4.3,
+        "count": 162
+      },
+      "stock": 9,
+      "format": "Paperback",
+      "publicationYear": 1909
+    },
+    {
+      "id": "7",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "isbn": "9780743477116",
+      "category": "Classic",
+      "price": 1700,
+      "coverImage": "/covers/RJ.jpg",
+      "reviews": {
+        "rating": 4.7,
+        "count": 356
+      },
+      "stock": 13,
+      "format": "Paperback",
+      "publicationYear": 1897
+    }
+  ],
+  "latestBooks": [
+    {
+      "id": "9",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "isbn": "9780141439563",
+      "category": "Fiction",
+      "price": 2200,
+      "coverImage": "/covers/great.jpeg",
+      "reviews": {
+        "rating": 4.6,
+        "count": 309
+      },
+      "stock": 12,
+      "format": "Hardcover",
+      "publicationYear": 2007
+    },
+    {
+      "id": "10",
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "isbn": "9780141439747",
+      "publisher": "Penguin Classics",
+      "description": "A social novel exposing poverty and crime in Victorian London.",
+      "coverImage": "/covers/oliver.jpeg",
+      "category": "Fiction",
+      "price": "2198",
+      "reviews": {
+        "rating": 4,
+        "count": 409
+      },
+      "stock": 12,
+      "format": "Hardcover",
+      "publicationYear": 2009
+    },
+    {
+      "id": "16",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "isbn": "9780140449136",
+      "category": "Fiction",
+      "price": 2300,
+      "coverImage": "/covers/crime.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 79
+      },
+      "stock": 6,
+      "format": "Hardcover",
+      "publicationYear": 1994
+    },
+    {
+      "id": "44",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "isbn": "9780451526342",
+      "publisher": "Secker & Warburg",
+      "description": "A political allegory on power and corruption.",
+      "coverImage": "/covers/animals.jpg",
+      "category": "Fiction",
+      "price": 1750,
+      "reviews": {
+        "rating": 4.2,
+        "count": 133
+      },
+      "stock": 8,
+      "format": "Paperback",
+      "publicationYear": 2004
+    },
+    {
+      "id": "8",
+      "title": "Julius Caesar",
+      "author": "William Shakespeare",
+      "isbn": "9780743482745",
+      "category": "Classic",
+      "price": 1700,
+      "coverImage": "/covers/julius.jpg",
+      "reviews": {
+        "rating": 4.2,
+        "count": 117
+      },
+      "stock": 7,
+      "format": "Hardcover",
+      "publicationYear": 1899
+    },
+    {
+      "id": "5",
+      "title": "Othello",
+      "author": "William Shakespeare",
+      "isbn": "9780743477550",
+      "category": "Classic",
+      "price": 1900,
+      "coverImage": "/covers/othello.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 79
+      },
+      "stock": 6,
+      "format": "Hardcover",
+      "publicationYear": 1924
+    },
+    {
+      "id": "50",
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "isbn": "9780618249060",
+      "category": "Non-Fiction",
+      "price": 1400,
+      "coverImage": "/covers/spring.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "51",
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "isbn": "9780316017930",
+      "category": "Non-Fiction",
+      "price": 1100,
+      "coverImage": "/covers/out.png",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    }
+  ],
+  "bestseller": [
+    {
+      "id": "12",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "isbn": "9780141439556",
+      "category": "Fiction",
+      "price": 2150,
+      "coverImage": "/covers/height.jpg",
+      "reviews": {
+        "rating": 4.2,
+        "count": 356
+      },
+      "stock": 18,
+      "format": "Paperback",
+      "publicationYear": 1995
+    },
+    {
+      "id": "11",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "isbn": "9780141441146",
+      "category": "Fiction",
+      "price": 2250,
+      "coverImage": "/covers/jane.jpg",
+      "reviews": {
+        "rating": 4.7,
+        "count": 356
+      },
+      "stock": 13,
+      "format": "Paperback",
+      "publicationYear": 2011
+    },
+    {
+      "id": "13",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "isbn": "9780142437247",
+      "category": "Fiction",
+      "price": 2400,
+      "coverImage": "/covers/alchemist.jpg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 2016
+    },
+    {
+      "id": "21",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "isbn": "9780141441672",
+      "category": "Historical",
+      "price": 2100,
+      "coverImage": "/covers/heart.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "18",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "isbn": "9780140447934",
+      "category": "Historical",
+      "price": 3000,
+      "coverImage": "/covers/war.jpeg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 2016
+    },
+    {
+      "id": "55",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "isbn": "9781594483851",
+      "category": "Contemporary",
+      "price": 1300,
+      "coverImage": "/covers/suns.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "47",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "isbn": "9781590302255",
+      "category": "Non-Fiction",
+      "price": 900,
+      "coverImage": "/covers/art.jpg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "49",
+      "title": "Man’s Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "isbn": "9780807014271",
+      "category": "Non-Fiction",
+      "price": 950,
+      "coverImage": "/covers/mans.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    }
+  ],
+  "saleBooks": [
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn": "9780141439518",
+      "publisher": "Penguin Classics",
+      "description": "A romantic novel focusing on manners, marriage, and morality.",
+      "coverImage": "/covers/pride.jpg",
+      "category": "Fiction",
+      "price": "2300",
+      "reviews": {
+        "rating": 4.2,
+        "count": 95
+      },
+      "stock": 7,
+      "format": "Hardcover",
+      "publicationYear": 1998
+    },
+    {
+      "id": "19",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn": "9780743273565",
+      "category": "Fiction",
+      "price": 2000,
+      "coverImage": "/covers/gatsby.jpeg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 2016
+    },
+    {
+      "id": "23",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "isbn": "9780141439846",
+      "category": "Fiction",
+      "price": 2000,
+      "coverImage": "/covers/dracula.jpeg",
+      "reviews": {
+        "rating": 3.9,
+        "count": 46
+      },
+      "stock": 3,
+      "format": "Paperback",
+      "publicationYear": 1918
+    },
+    {
+      "id": "45",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "isbn": "9780060850524",
+      "category": "Fiction",
+      "price": 1000,
+      "coverImage": "/covers/brave.jpg",
+      "reviews": {
+        "rating": 4.6,
+        "count": 294
+      },
+      "stock": 12,
+      "format": "Hardcover",
+      "publicationYear": 2006
+    },
+    {
+      "id": "8",
+      "title": "Julius Caesar",
+      "author": "William Shakespeare",
+      "isbn": "9780743482745",
+      "category": "Classic",
+      "price": 1700,
+      "coverImage": "/covers/julius.jpg",
+      "reviews": {
+        "rating": 4.2,
+        "count": 117
+      },
+      "stock": 7,
+      "format": "Hardcover",
+      "publicationYear": 1899
+    },
+    {
+      "id": "4",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "isbn": "9780743477109",
+      "category": "Classic",
+      "price": 1750,
+      "coverImage": "/covers/macbeth.jpg",
+      "reviews": {
+        "rating": 4.3,
+        "count": 162
+      },
+      "stock": 9,
+      "format": "Paperback",
+      "publicationYear": 2002
+    },
+    {
+      "id": "56",
+      "title": "The Reluctant Fundamentalist",
+      "author": "Mohsin Hamid",
+      "isbn": "9780151013043",
+      "category": "Contemporary",
+      "price": 1150,
+      "coverImage": "/covers/fund.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    },
+    {
+      "id": "15",
+      "title": "The Iliad",
+      "author": "Homer",
+      "isbn": "9780140275360",
+      "category": "Historical",
+      "price": 2500,
+      "coverImage": "/covers/iliad.jpg",
+      "reviews": {
+        "rating": 4.9,
+        "count": 721
+      },
+      "stock": 20,
+      "format": "Paperback",
+      "publicationYear": 1918
+    },
+    {
+      "id": "21",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "isbn": "9780141441672",
+      "category": "Historical",
+      "price": 2100,
+      "coverImage": "/covers/heart.jpeg",
+      "reviews": {
+        "rating": 4,
+        "count": 561
+      },
+      "stock": 10,
+      "format": "Hardcover",
+      "publicationYear": 2001
+    }
+  ],
+  "genres": {
+    "Fiction": [
+      {
+        "id": 1,
+        "title": "A Passage to India",
+        "author": "E. M. Forster",
+        "isbn": "9780156711425",
+        "publisher": "Harcourt",
+        "description": "A novel exploring British colonialism and racial tensions in India.",
+        "coverImage": "/covers/Passage.jpeg",
+        "category": "Fiction",
+        "price": 2300,
+        "reviews": {
+          "rating": 4.8,
+          "count": 548
+        },
+        "stock": 16,
+        "format": "Paperback",
+        "publicationYear": 2013
+      },
+      {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9780141439518",
+        "publisher": "Penguin Classics",
+        "description": "A romantic novel focusing on manners, marriage, and morality.",
+        "coverImage": "/covers/pride.jpg",
+        "category": "Fiction",
+        "price": "2300",
+        "reviews": {
+          "rating": 4.2,
+          "count": 95
+        },
+        "stock": 7,
+        "format": "Hardcover",
+        "publicationYear": 1998
+      },
+      {
+        "id": 9,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "isbn": "9780141439563",
+        "publisher": "Penguin Classics",
+        "description": "A coming-of-age novel about ambition and redemption.",
+        "coverImage": "/covers/great.jpeg",
+        "category": "Fiction",
+        "price": 2200,
+        "reviews": {
+          "rating": 4.6,
+          "count": 309
+        },
+        "stock": 12,
+        "format": "Hardcover",
+        "publicationYear": 2007
+      },
+      {
+        "id": 10,
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "isbn": "9780141439747",
+        "publisher": "Penguin Classics",
+        "description": "A social novel exposing poverty and crime in Victorian London.",
+        "coverImage": "/covers/oliver.jpeg",
+        "category": "Fiction",
+        "price": "2198",
+        "reviews": {
+          "rating": 4,
+          "count": 409
+        },
+        "stock": 12,
+        "format": "Hardcover",
+        "publicationYear": 2009
+      },
+      {
+        "id": 11,
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "isbn": "9780141441146",
+        "publisher": "Penguin Classics",
+        "description": "A novel about love, independence, and moral growth.",
+        "coverImage": "/covers/jane.jpg",
+        "price": 2250,
+        "category": "Fiction",
+        "reviews": {
+          "rating": 4.7,
+          "count": 356
+        },
+        "stock": 13,
+        "format": "Paperback",
+        "publicationYear": 2011
+      },
+      {
+        "id": 12,
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "isbn": "9780141439556",
+        "publisher": "Penguin Classics",
+        "description": "A gothic novel of obsession and revenge.",
+        "coverImage": "/covers/height.jpg",
+        "category": "Fiction",
+        "price": 2150,
+        "reviews": {
+          "rating": 4.2,
+          "count": 356
+        },
+        "stock": 18,
+        "format": "Paperback",
+        "publicationYear": 1995
+      },
+      {
+        "id": 13,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780142437247",
+        "publisher": "Penguin Classics",
+        "description": "A philosophical novel about destiny and self-discovery.",
+        "coverImage": "/covers/alchemist.jpg",
+        "category": "Fiction",
+        "price": 2400,
+        "reviews": {
+          "rating": 4.9,
+          "count": 721
+        },
+        "stock": 20,
+        "format": "Paperback",
+        "publicationYear": 2016
+      },
+      {
+        "id": 16,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "9780140449136",
+        "publisher": "Penguin Classics",
+        "description": "A psychological novel about guilt and redemption.",
+        "coverImage": "/covers/crime.jpeg",
+        "category": "Fiction",
+        "price": 2300,
+        "reviews": {
+          "rating": 4,
+          "count": 79
+        },
+        "stock": 6,
+        "format": "Hardcover",
+        "publicationYear": 1994
+      },
+      {
+        "id": 17,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "isbn": "9780143035008",
+        "publisher": "Penguin Classics",
+        "description": "A tragic love story set in Russian high society.",
+        "coverImage": "/covers/anna.jpg",
+        "category": "Fiction",
+        "price": 2600,
+        "reviews": {
+          "rating": 4.8,
+          "count": 487
+        },
+        "stock": "12",
+        "format": "Paperback",
+        "publicationYear": 2015
+      },
+      {
+        "id": 19,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "publisher": "Scribner",
+        "description": "A critique of the American Dream.",
+        "coverImage": "/covers/gatsby.jpeg",
+        "category": "Fiction",
+        "price": 2000,
+        "reviews": {
+          "rating": 4.9,
+          "count": 721
+        },
+        "stock": 20,
+        "format": "Paperback",
+        "publicationYear": 2016
+      },
+      {
+        "id": 20,
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "isbn": "9780156907392",
+        "publisher": "Harcourt",
+        "description": "A modernist novel exploring memory and perception.",
+        "coverImage": "/covers/light.jpg",
+        "category": "Fiction",
+        "price": 2200,
+        "reviews": {
+          "rating": 4.5,
+          "count": 219
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 22,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "isbn": "9780141439471",
+        "publisher": "Penguin Classics",
+        "description": "A gothic novel about creation and responsibility.",
+        "coverImage": "/covers/frank.jpg",
+        "category": "Fiction",
+        "price": 1900,
+        "reviews": {
+          "rating": 4.2,
+          "count": 117
+        },
+        "stock": 7,
+        "format": "Hardcover",
+        "publicationYear": 1999
+      },
+      {
+        "id": 23,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "isbn": "9780141439846",
+        "publisher": "Penguin Classics",
+        "description": "A classic horror novel introducing Count Dracula.",
+        "coverImage": "/covers/dracula.jpeg",
+        "category": "Fiction",
+        "price": 2000,
+        "reviews": {
+          "rating": 3.9,
+          "count": 46
+        },
+        "stock": 3,
+        "format": "Paperback",
+        "publicationYear": 1918
+      },
+      {
+        "id": 44,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "9780451526342",
+        "publisher": "Secker & Warburg",
+        "description": "A political allegory on power and corruption.",
+        "coverImage": "/covers/animals.jpg",
+        "category": "Fiction",
+        "price": 1750,
+        "reviews": {
+          "rating": 4.2,
+          "count": 133
+        },
+        "stock": 8,
+        "format": "Paperback",
+        "publicationYear": 2004
+      },
+      {
+        "id": 45,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": "9780060850524",
+        "publisher": "Chatto & Windus",
+        "description": "A vision of a technologically controlled society.",
+        "coverImage": "/covers/brave.jpg",
+        "category": "Fiction",
+        "price": 1000,
+        "reviews": {
+          "rating": 4.6,
+          "count": 294
+        },
+        "stock": 12,
+        "format": "Hardcover",
+        "publicationYear": 2006
+      }
+    ],
+    "Classic": [
+      {
+        "id": 2,
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "isbn": "9780743477123",
+        "publisher": "Simon & Schuster",
+        "description": "A tragedy of revenge, madness, and moral corruption.",
+        "coverImage": "/covers/Hamlet.jpg",
+        "category": "Classic",
+        "price": 1800,
+        "reviews": {
+          "rating": 4.5,
+          "count": 243
+        },
+        "stock": 11,
+        "format": "Paperback",
+        "publicationYear": 1914
+      },
+      {
+        "id": 4,
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "isbn": "9780743477109",
+        "publisher": "Simon & Schuster",
+        "description": "A dark tragedy about ambition and the lust for power.",
+        "category": "Classic",
+        "coverImage": "/covers/macbeth.jpg",
+        "price": 1750,
+        "reviews": {
+          "rating": 4.3,
+          "count": 162
+        },
+        "stock": 9,
+        "format": "Paperback",
+        "publicationYear": 2002
+      },
+      {
+        "id": 5,
+        "title": "Othello",
+        "author": "William Shakespeare",
+        "isbn": "9780743477550",
+        "publisher": "Simon & Schuster",
+        "description": "A tragedy centered on jealousy, manipulation, and betrayal.",
+        "category": "Classic",
+        "coverImage": "/covers/othello.jpeg",
+        "price": 1900,
+        "reviews": {
+          "rating": 4,
+          "count": 79
+        },
+        "stock": 6,
+        "format": "Hardcover",
+        "publicationYear": 1924
+      },
+      {
+        "id": 6,
+        "title": "King Lear",
+        "author": "William Shakespeare",
+        "isbn": "9780743482769",
+        "publisher": "Simon & Schuster",
+        "description": "A tragic tale of pride, family conflict, and madness.",
+        "category": "Classic",
+        "coverImage": "/covers/king.jpg",
+        "price": 1850,
+        "reviews": {
+          "rating": 4.3,
+          "count": 162
+        },
+        "stock": 9,
+        "format": "Paperback",
+        "publicationYear": 1909
+      },
+      {
+        "id": 7,
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "isbn": "9780743477116",
+        "publisher": "Simon & Schuster",
+        "description": "A tragic romance between two star-crossed lovers.",
+        "category": "Classic",
+        "coverImage": "/covers/RJ.jpg",
+        "price": 1700,
+        "reviews": {
+          "rating": 4.7,
+          "count": 356
+        },
+        "stock": 13,
+        "format": "Paperback",
+        "publicationYear": 1897
+      },
+      {
+        "id": 8,
+        "title": "Julius Caesar",
+        "author": "William Shakespeare",
+        "isbn": "9780743482745",
+        "publisher": "Simon & Schuster",
+        "description": "A political drama about betrayal and power.",
+        "category": "Classic",
+        "coverImage": "/covers/julius.jpg",
+        "price": 1700,
+        "reviews": {
+          "rating": 4.2,
+          "count": 117
+        },
+        "stock": 7,
+        "format": "Hardcover",
+        "publicationYear": 1899
+      }
+    ],
+    "Historical": [
+      {
+        "id": 14,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "isbn": "9780140268867",
+        "publisher": "Penguin Classics",
+        "description": "An epic journey of heroism and perseverance.",
+        "category": "Classic",
+        "coverImage": "/covers/odyssey.jpeg",
+        "price": 2500,
+        "reviews": {
+          "rating": 4.9,
+          "count": 721
+        },
+        "stock": 20,
+        "format": "Paperback",
+        "publicationYear": 1890
+      },
+      {
+        "id": 15,
+        "title": "The Iliad",
+        "author": "Homer",
+        "isbn": "9780140275360",
+        "publisher": "Penguin Classics",
+        "description": "An epic poem of war and honor.",
+        "category": "Classic",
+        "coverImage": "/covers/iliad.jpg",
+        "price": 2500,
+        "reviews": {
+          "rating": 4.9,
+          "count": 721
+        },
+        "stock": 20,
+        "format": "Paperback",
+        "publicationYear": 1918
+      },
+      {
+        "id": 18,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isbn": "9780140447934",
+        "publisher": "Penguin Classics",
+        "description": "A historical epic of war, love, and philosophy.",
+        "category": "Classic",
+        "coverImage": "/covers/war.jpeg",
+        "price": 3000,
+        "reviews": {
+          "rating": 4.9,
+          "count": 721
+        },
+        "stock": 20,
+        "format": "Paperback",
+        "publicationYear": 2016
+      },
+      {
+        "id": 21,
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "isbn": "9780141441672",
+        "publisher": "Penguin Classics",
+        "description": "A critique of imperialism and human nature.",
+        "category": "Classic",
+        "coverImage": "/covers/heart.jpeg",
+        "price": 2100,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 52,
+        "title": "The Guns of August",
+        "author": "Barbara W. Tuchman",
+        "isbn": "9780345476098",
+        "publisher": "Macmillan",
+        "description": "An account of the outbreak of World War I.",
+        "category": "Classic",
+        "coverImage": "/covers/gun.jpeg",
+        "price": 1500,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 53,
+        "title": "A People’s History of the United States",
+        "author": "Howard Zinn",
+        "isbn": "9780062397348",
+        "publisher": "Harper",
+        "description": "History from the perspective of ordinary people.",
+        "category": "Classic",
+        "coverImage": "/covers/US.jpeg",
+        "price": 1500,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      }
+    ],
+    "Non-Fiction": [
+      {
+        "id": 46,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "isbn": "9780062316097",
+        "publisher": "Harper",
+        "description": "An overview of human evolution, culture, and societies.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/sapiens.jpg",
+        "price": 1800,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 47,
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "isbn": "9781590302255",
+        "publisher": "Shambhala",
+        "description": "A classical text on strategy and leadership.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/art.jpg",
+        "price": 900,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 48,
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "isbn": "9780374533557",
+        "publisher": "Farrar, Straus and Giroux",
+        "description": "An analysis of human judgment and decision-making.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/fasts.png",
+        "price": 1500,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 49,
+        "title": "Man’s Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "isbn": "9780807014271",
+        "publisher": "Beacon Press",
+        "description": "A psychological reflection on purpose and resilience.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/mans.jpeg",
+        "price": 950,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 50,
+        "title": "Silent Spring",
+        "author": "Rachel Carson",
+        "isbn": "9780618249060",
+        "publisher": "Houghton Mifflin",
+        "description": "An environmental science classic.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/spring.jpeg",
+        "price": 1400,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 51,
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "isbn": "9780316017930",
+        "publisher": "Little, Brown and Company",
+        "description": "An examination of success and opportunity.",
+        "category": "Non-Fiction",
+        "coverImage": "/covers/out.png",
+        "price": 1100,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      }
+    ],
+    "Contemporary": [
+      {
+        "id": 54,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "isbn": "9781594631931",
+        "publisher": "Riverhead Books",
+        "description": "A contemporary novel on friendship and redemption.",
+        "category": "Contemporary",
+        "coverImage": "/covers/kite.jpeg",
+        "price": 1200,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 55,
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "isbn": "9781594483851",
+        "publisher": "Riverhead Books",
+        "description": "A novel highlighting resilience and hope.",
+        "category": "Contemporary",
+        "coverImage": "/covers/suns.jpeg",
+        "price": 1300,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      },
+      {
+        "id": 56,
+        "title": "The Reluctant Fundamentalist",
+        "author": "Mohsin Hamid",
+        "isbn": "9780151013043",
+        "publisher": "Harcourt",
+        "description": "A post-9/11 narrative on identity and perception.",
+        "category": "Contemporary",
+        "coverImage": "/covers/fund.jpeg",
+        "price": 1150,
+        "reviews": {
+          "rating": 4,
+          "count": 561
+        },
+        "stock": 10,
+        "format": "Hardcover",
+        "publicationYear": 2001
+      }
+    ],
+    "Latest": [
+      {
+        "id": 24,
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "isbn": "9780525559474",
+        "publisher": "Viking",
+        "price": 1200,
+        "coverImage": "/covers/midnight(L).jpeg",
+        "description": "A thought-provoking novel about choices, regrets, and the infinite possibilities of life explored through a magical library between life and death."
+      },
+      {
+        "id": 25,
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "isbn": "9780593135204",
+        "publisher": "Ballantine",
+        "price": 1500,
+        "coverImage": "/covers/hail(L).jpg",
+        "description": "A thrilling science-fiction adventure about a lone astronaut trying to save humanity from extinction while uncovering unexpected cosmic mysteries."
+      },
+      {
+        "id": 26,
+        "title": "Klara and the Sun",
+        "author": "Kazuo Ishiguro",
+        "isbn": "9780593318171",
+        "publisher": "Knopf",
+        "price": 1400,
+        "coverImage": "/covers/klara(L).jpg",
+        "description": "A deeply moving story of love, humanity, and artificial intelligence, seen through the eyes of Klara, an empathetic robot companion."
+      },
+      {
+        "id": 27,
+        "title": "The Lincoln Highway",
+        "author": "Amor Towles",
+        "isbn": "9780735222359",
+        "publisher": "Viking",
+        "price": 1600,
+        "coverImage": "/covers/highway(L).jpg",
+        "description": "An epic tale of friendship, ambition, and adventure across 1950s America, following an unforgettable journey along the Lincoln Highway."
+      },
+      {
+        "id": 28,
+        "title": "Malibu Rising",
+        "author": "Taylor Jenkins Reid",
+        "isbn": "9781524798656",
+        "publisher": "Ballantine",
+        "price": 1350,
+        "coverImage": "/covers/malibu(L).jpeg",
+        "description": "A captivating story about family secrets, fame, and the turbulent lives of the Riva siblings during one unforgettable summer night in Malibu."
+      },
+      {
+        "id": 29,
+        "title": "Sea of Tranquility",
+        "author": "Emily St. John Mandel",
+        "isbn": "9780525653205",
+        "publisher": "Knopf",
+        "price": 1550,
+        "coverImage": "/covers/sea(L).jpg",
+        "description": "A beautifully layered novel spanning centuries, exploring time, human connection, and the fragile nature of civilization through an intricate narrative."
+      },
+      {
+        "id": 30,
+        "title": "The Last Thing He Told Me",
+        "author": "Laura Dave",
+        "isbn": "9781501171345",
+        "publisher": "Simon & Schuster",
+        "price": 1250,
+        "coverImage": "/covers/last(L).jpg",
+        "description": "A suspenseful and heart-wrenching mystery about a woman uncovering the secrets of her missing husband and the bond with her stepdaughter."
+      },
+      {
+        "id": 31,
+        "title": "Beautiful World, Where Are You",
+        "author": "Sally Rooney",
+        "isbn": "9781984822178",
+        "publisher": "Faber & Faber",
+        "price": 1450,
+        "coverImage": "/covers/world(L).jpg",
+        "description": "A contemporary exploration of love, friendship, and modern life through the lives of four interconnected characters navigating relationships and society."
+      },
+      {
+        "id": 32,
+        "title": "Cloud Cuckoo Land",
+        "author": "Anthony Doerr",
+        "isbn": "9781982168438",
+        "publisher": "Scribner",
+        "price": 1650,
+        "coverImage": "/covers/cloud(L).jpg",
+        "description": "A sweeping historical novel weaving together past, present, and future, celebrating the power of stories and human imagination across centuries."
+      },
+      {
+        "id": 33,
+        "title": "Matrix",
+        "author": "Lauren Groff",
+        "isbn": "9781635575006",
+        "publisher": "Riverhead Books",
+        "price": 1500,
+        "coverImage": "/covers/matrix(L).jpeg",
+        "description": "A stunning historical novel about a woman’s rise to power in a medieval abbey, exploring ambition, faith, and the strength of the human spirit."
+      },
+      {
+        "id": 34,
+        "title": "Tomorrow, and Tomorrow, and Tomorrow",
+        "author": "Gabrielle Zevin",
+        "isbn": "9781982168439",
+        "publisher": "Knopf",
+        "price": 1550,
+        "coverImage": "/covers/tomorrow.jpeg",
+        "description": "An inventive story of friendship and creativity, tracing the lives of two lifelong friends who navigate love, rivalry, and the gaming industry."
+      },
+      {
+        "id": 35,
+        "title": "Lessons in Chemistry",
+        "author": "Bonnie Garmus",
+        "isbn": "9780385547345",
+        "publisher": "Doubleday",
+        "price": 1400,
+        "coverImage": "/covers/lessons(L).jpg",
+        "description": "A witty and inspiring story of a female scientist in the 1960s who challenges societal norms while balancing career, family, and love."
+      },
+      {
+        "id": 36,
+        "title": "Demon Copperhead",
+        "author": "Barbara Kingsolver",
+        "isbn": "9780593535685",
+        "publisher": "Harper",
+        "price": 1600,
+        "coverImage": "/covers/demon(L).jpg",
+        "description": "A modern reimagining of Dickens' classic 'David Copperfield,' set in Appalachia, exploring poverty, resilience, and the pursuit of hope."
+      },
+      {
+        "id": 37,
+        "title": "Horse",
+        "author": "Geraldine Brooks",
+        "isbn": "9780593319383",
+        "publisher": "Viking",
+        "price": 1500,
+        "coverImage": "/covers/horse(L).jpg",
+        "description": "A captivating historical tale tracing the intertwined lives of a remarkable racehorse, its owner, and the people who shaped its journey."
+      },
+      {
+        "id": 38,
+        "title": "The Candy House",
+        "author": "Jennifer Egan",
+        "isbn": "9780385547246",
+        "publisher": "Knopf",
+        "price": 1550,
+        "coverImage": "/covers/candy(L).jpg",
+        "description": "A bold, inventive novel exploring memory, technology, and human connection through a complex web of characters and intertwined stories."
+      },
+      {
+        "id": 39,
+        "title": "Our Missing Hearts",
+        "author": "Celeste Ng",
+        "isbn": "9780735222601",
+        "publisher": "Penguin Press",
+        "price": 1400,
+        "coverImage": "/covers/missing(L).jpeg",
+        "description": "A deeply affecting novel about a father’s search for his daughter in a dystopian society, exploring love, injustice, and resilience."
+      },
+      {
+        "id": 40,
+        "title": "The Passenger",
+        "author": "Cynthia D’Aprix Sweeney",
+        "isbn": "9780593188782",
+        "publisher": "Ecco",
+        "price": 1500,
+        "coverImage": "/covers/passenger(L).jpg",
+        "description": "A compelling story of wealth, family dynamics, and personal reinvention, following the lives of estranged siblings on a transformative journey."
+      },
+      {
+        "id": 41,
+        "title": "Romantic Comedy",
+        "author": "Curtis Sittenfeld",
+        "isbn": "9781984856580",
+        "publisher": "Random House",
+        "price": 1450,
+        "coverImage": "/covers/RC(L).jpg",
+        "description": "A sharp, witty exploration of modern love, ambition, and fame, following the life of ascreenwriter navigating Hollywood’s complex landscape."
+      },
+      {
+        "id": 42,
+        "title": "Small Things Like These",
+        "author": "Claire Keegan",
+        "isbn": "9780374602003",
+        "publisher": "Farrar, Straus and Giroux",
+        "price": 1350,
+        "coverImage": "/covers/small(L).jpeg",
+        "description": "A short but powerful story set in 1980s Ireland, exploring morality, courage, and the quiet acts of heroism in everyday life."
+      },
+      {
+        "id": 43,
+        "title": "Violeta",
+        "author": "Isabel Allende",
+        "isbn": "9781982158033",
+        "publisher": "Ballantine",
+        "price": 1650,
+        "coverImage": "/covers/violeta(L).jpeg",
+        "description": "A sweeping historical novel chronicling the extraordinary life of Violeta, a woman navigating love, loss, and resilience through a century of change."
+      }
+    ]
+  }
+}

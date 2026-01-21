@@ -1,0 +1,111 @@
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 70px;
+
+}
+
+.navbar {
+  background: linear-gradient(135deg, #070218 0%, #221d29 100%);
+  padding: 10px 0;
+  box-shadow: 0px 1px 3px -2px black;
+}
+
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.navbar-brand img {
+width: 100px;
+height: auto;
+}
+
+.navbar-brand span {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+  font-style: italic;
+}
+
+
+.navbar-nav {
+  gap: 50px;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  gap: 5px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: white;
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+
+
+.navbar .btn {
+  font-size: 14px;
+  background-color: white ;
+  border: 2px #070218 solid;
+  border-radius: 10px;
+
+  font-weight: 600;
+
+}
+
+.navbar .btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar .btn:hover {
+  background-color: #24584a;
+  transform: scale(1.05);
+}
+.navbar .btn a:hover{
+  color: white;
+}
+
+.navbar i {
+  cursor: pointer;
+  color: white;
+
+}
+.right{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.navbar-toggler{
+  color: white;
+}
+.navbar-toggler-icon{
+  filter: invert(1);
+} 
+.cart-icon {
+  position: relative;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background-color: #dc3545;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 3px 6px;
+  border-radius: 50%;
+  line-height: 1;
+  text-align: center;
+}
