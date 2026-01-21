@@ -1,25 +1,29 @@
 # Web Online Bookshop
-Online bookshop built with React and json-server
-This is a simple Online Bookshop web application built using React (Vite) for the frontend and json-server for the backend.
 
-The application fetches book data from a local mock REST API and displays it in the browser.  
-This project is meant for learning and practice purposes.
+This is a full-stack Online Bookshop web application built using **React (Vite)** for the frontend and **JSON Server** for the backend.
+
+The project demonstrates how a modern React application consumes a REST API to display and manage book-related data.  
+This repository contains **source code only** and is intended for learning and academic purposes.
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-Frontend:
+### Frontend
 - React
 - Vite
-- JavaScript
+- JavaScript (ES6)
 - HTML
 - CSS
 
-Backend:
-- json-server
+### Backend
+- JSON Server
 
 ---
+
+
+
+
 ## Project Structure
 
 ```
@@ -45,6 +49,8 @@ WEB-ONLINE-BOOKSHOP
         ├── vite.config.js
         └── node_modules
 ```
+
+---
 
 ## How to Run the Project
 
